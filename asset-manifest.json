@@ -1,11 +1,11 @@
 {
-  "main.js": "/static/js/main.134f686a.chunk.js",
-  "main.js.map": "/static/js/main.134f686a.chunk.js.map",
-  "static/js/1.37f90d57.chunk.js": "/static/js/1.37f90d57.chunk.js",
-  "static/js/1.37f90d57.chunk.js.map": "/static/js/1.37f90d57.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.d2e58bfee57463086e5ccbce2057c630.js": "/precache-manifest.d2e58bfee57463086e5ccbce2057c630.js",
-  "service-worker.js": "/service-worker.js"
+  "main.js": "/controlalt.no/static/js/main.134f686a.chunk.js",
+  "main.js.map": "/controlalt.no/static/js/main.134f686a.chunk.js.map",
+  "static/js/1.37f90d57.chunk.js": "/controlalt.no/static/js/1.37f90d57.chunk.js",
+  "static/js/1.37f90d57.chunk.js.map": "/controlalt.no/static/js/1.37f90d57.chunk.js.map",
+  "runtime~main.js": "/controlalt.no/static/js/runtime~main.4dae0511.js",
+  "runtime~main.js.map": "/controlalt.no/static/js/runtime~main.4dae0511.js.map",
+  "index.html": "/controlalt.no/index.html",
+  "precache-manifest.883194bf8122b73ce46810b309ab41b1.js": "/controlalt.no/precache-manifest.883194bf8122b73ce46810b309ab41b1.js",
+  "service-worker.js": "/controlalt.no/service-worker.js"
 }
